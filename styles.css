@@ -28,7 +28,10 @@ header.site{position:sticky;top:0;z-index:50;background:color-mix(in srgb,var(--
 .menu a:hover{color:var(--ink);text-decoration:none}
 .burger{display:none;background:none;border:1px solid var(--line);border-radius:8px;padding:9px 10px;color:var(--ink)}
 @media(max-width:767px){.menu{position:fixed;inset:64px 0 auto 0;flex-direction:column;gap:0;background:var(--surface);border-bottom:1px solid var(--line);padding:8px 0;display:none}.menu.open{display:flex}.menu li{border-top:1px solid var(--line)}.menu a{display:block;padding:16px 28px}.burger{display:block}}
-.hero{padding:88px 0 64px;position:relative;overflow:hidden}
+.hero{padding:88px 0 64px;position:relative;overflow:hidden;background:radial-gradient(760px 500px at 50% 28%,#151b26,#0b0e13 78%);color:#f6f6f6}
+.hero .tag{color:#c9d2dd}
+.hero .lede{color:#c9d2dd}
+.hero .btn.ghost{color:#f6f6f6;border-color:#3a4453}
 .hero .mark{display:block;width:min(300px,72%);margin:0 auto 36px}
 .hero .mark svg{width:100%;height:auto;display:block}
 .hero h1{text-align:center;font-size:clamp(30px,6vw,54px);letter-spacing:.18em;font-weight:600}
