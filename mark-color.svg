@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 806">
+<defs>
+<linearGradient id="arm" x1="480" y1="290" x2="780" y2="560" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#f9fbfd"/><stop offset=".45" stop-color="#a4a5aa"/><stop offset="1" stop-color="#5f6671"/></linearGradient>
+<linearGradient id="armhi" x1="480" y1="290" x2="780" y2="560" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#eef0f4"/><stop offset="1" stop-color="#c5c9d0"/></linearGradient>
+<linearGradient id="core" x1="500" y1="130" x2="500" y2="560" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#fefefd"/><stop offset=".5" stop-color="#cabaab"/><stop offset="1" stop-color="#857467"/></linearGradient>
+<linearGradient id="armlight" x1="480" y1="290" x2="780" y2="560" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#6b7686"/><stop offset="1" stop-color="#262c36"/></linearGradient>
+<linearGradient id="corelight" x1="500" y1="130" x2="500" y2="560" gradientUnits="userSpaceOnUse">
+<stop offset="0" stop-color="#c99a55"/><stop offset="1" stop-color="#8a6a30"/></linearGradient>
+<radialGradient id="halo"><stop offset="0" stop-color="#c0d0e0" stop-opacity=".35"/><stop offset="1" stop-color="#c0d0e0" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="1000" height="1000" fill="#0b0e13"/>
+<circle cx="500" cy="330" r="420" fill="url(#halo)"/><path d="M 193.5 219.4 L 171.0 238.7 L 151.6 267.7 L 125.8 329.0 L 129.0 438.7 L 177.4 438.7 L 235.5 461.3 L 200.0 441.9 L 203.2 406.5 L 219.4 377.4 L 229.0 371.0 L 238.7 377.4 L 254.8 371.0 L 248.4 364.5 L 251.6 358.1 L 287.1 390.3 L 287.1 383.9 L 312.9 383.9 L 329.0 393.5 L 364.5 445.2 L 361.3 451.6 L 358.1 448.4 L 390.3 487.1 L 400.0 538.7 L 400.0 564.5 L 393.5 564.5 L 448.4 629.0 L 487.1 712.9 L 474.2 677.4 L 474.2 658.1 L 480.6 658.1 L 480.6 664.5 L 471.0 564.5 L 461.3 567.7 L 454.8 583.9 L 425.8 529.0 L 441.9 503.2 L 451.6 512.9 L 432.3 467.7 L 393.5 412.9 L 358.1 377.4 L 271.0 312.9 L 238.7 280.6 L 225.8 258.1 L 229.0 222.6 L 238.7 216.1 L 235.5 229.0 L 238.7 216.1 L 254.8 206.5 L 345.2 206.5 L 264.5 200.0 Z" fill="url(#arm)"/><path d="M 867.7 219.4 L 800.0 200.0 L 764.5 200.0 L 696.8 212.9 L 745.2 203.2 L 800.0 203.2 L 835.5 219.4 L 841.9 229.0 L 841.9 248.4 L 832.3 271.0 L 793.5 312.9 L 754.8 341.9 L 748.4 338.7 L 751.6 335.5 L 745.2 338.7 L 751.6 341.9 L 725.8 358.1 L 729.0 361.3 L 671.0 419.4 L 635.5 471.0 L 603.2 538.7 L 577.4 645.2 L 580.6 716.1 L 587.1 690.3 L 622.6 622.6 L 609.7 641.9 L 600.0 635.5 L 622.6 571.0 L 648.4 522.6 L 716.1 432.3 L 745.2 403.2 L 761.3 409.7 L 783.9 435.5 L 793.5 467.7 L 771.0 483.9 L 841.9 448.4 L 825.8 451.6 L 809.7 419.4 L 803.2 361.3 L 809.7 351.6 L 803.2 348.4 L 871.0 293.5 L 903.2 329.0 L 925.8 383.9 L 929.0 412.9 L 932.3 361.3 L 922.6 312.9 L 896.8 248.4 Z" fill="url(#arm)"/><path d="M 922.6 451.6 L 916.1 454.8 L 890.3 438.7 L 887.1 477.4 L 867.7 529.0 L 877.4 516.1 L 887.1 522.6 L 893.5 541.9 L 877.4 574.2 L 854.8 596.8 L 809.7 612.9 L 806.5 609.7 L 819.4 593.5 L 787.1 625.8 L 725.8 661.3 L 787.1 645.2 L 829.0 625.8 L 900.0 564.5 L 932.3 503.2 Z" fill="url(#armhi)"/><path d="M 532.3 32.3 L 522.6 251.6 L 516.1 261.3 L 493.5 264.5 L 500.0 271.0 L 477.4 329.0 L 438.7 335.5 L 471.0 341.9 L 483.9 374.2 L 503.2 393.5 L 519.4 400.0 L 532.3 619.4 L 535.5 474.2 L 545.2 477.4 L 545.2 400.0 L 567.7 390.3 L 583.9 374.2 L 596.8 341.9 L 635.5 338.7 L 600.0 335.5 L 590.3 325.8 L 577.4 290.3 L 548.4 271.0 Z" fill="url(#core)"/>
+</svg>
