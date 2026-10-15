@@ -50,7 +50,7 @@ a{color:inherit}
 .hero{background:radial-gradient(1100px 620px at 62% -10%,#181C26 0%,var(--obsidian) 62%) var(--obsidian);color:var(--ink);overflow:hidden}
 .hero .wrap{display:grid;grid-template-columns:1.05fr .95fr;align-items:center;gap:56px;padding-top:64px;padding-bottom:64px}
 .hero .mark{position:relative}
-.hero .mark svg{width:min(380px,100%);height:auto;filter:drop-shadow(0 24px 60px rgba(0,0,0,.55))}
+.hero .mark svg{width:min(290px,100%);height:auto;filter:drop-shadow(0 24px 60px rgba(0,0,0,.55))}
 .hero .mark::before{content:'';position:absolute;left:50%;top:5%;width:4px;height:4px;margin-left:-2px;border-radius:50%;background:var(--gold-hi);box-shadow:0 0 18px 4px rgba(242,211,153,.8);animation:origin 2.6s var(--ease) forwards;pointer-events:none}
 @keyframes origin{0%{opacity:0;transform:scale(.2)}18%{opacity:1;transform:scale(1)}70%{opacity:.9}100%{opacity:0;transform:scale(.5) translateY(-10px)}}
 .hero h1{font-family:var(--font-d);font-weight:600;font-size:clamp(38px,5.6vw,66px);line-height:1.04;letter-spacing:.045em;margin:14px 0 10px}
@@ -59,7 +59,7 @@ a{color:inherit}
 .hero .acts{display:flex;gap:14px;flex-wrap:wrap}
 .hero .kicker{margin:0}
 @media(max-width:900px){.hero .wrap{grid-template-columns:1fr;gap:34px;text-align:center;padding-top:44px;padding-bottom:48px}
-.hero .mark{order:-1;margin:0 auto}.hero .lede{margin-left:auto;margin-right:auto}.hero .acts{justify-content:center}.hero .mark svg{width:min(240px,76%)}}
+.hero .mark{order:-1;margin:0 auto}.hero .lede{margin-left:auto;margin-right:auto}.hero .acts{justify-content:center}.hero .mark svg{width:min(210px,64%)}}
 /* ---------- sections ---------- */
 .kicker{font-family:var(--font-d);font-size:12px;letter-spacing:.32em;color:var(--gold);text-transform:uppercase;font-weight:500;margin:0 0 12px}
 .kicker.ice{color:var(--ice)}
